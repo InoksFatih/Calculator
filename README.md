@@ -1,5 +1,7 @@
 # Calculator
+
 A Tkinter Python Calculator
+
 Python with Tkinter outputs the fastest and easiest way to create a GUI applications, Such as calculators. Which we will cover today in this presentation.
 Python has a lot of GUI frameworks, but Tkinter is the only framework that's built into the Python standard library.
 
